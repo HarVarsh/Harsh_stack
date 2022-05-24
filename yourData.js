@@ -10,10 +10,7 @@ export default {
 
   socials: [
     { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    { title: "Email", link: "mailto:harivarsan.al21@bitsathy.ac.in" },
   ],
 
   // End Header Details -----------------------
