@@ -6,10 +6,10 @@ export default {
   name: "chetan",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm Harivarsan - Pursuing B.Tech AIML at BIT",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
+    { title: "Github", link: "https://github.com/HarVarsh" },
     { title: "Email", link: "mailto:harivarsan.al21@bitsathy.ac.in" },
   ],
 
@@ -114,8 +114,8 @@ export default {
 
   // About Secton --------------
   aboutpara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I am Harivarsan",
   //   End About Section ---------------------
 };
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+// Thanks for using this template, I would love to hear from you contact me at harivarsan.al21@bitsathy.ac.in
